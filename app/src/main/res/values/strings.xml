@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Socialize</string>
+    <string name="post_text_hint">What do you want to talk about?</string>
+    <string name="post_button">POST</string>
 </resources>
