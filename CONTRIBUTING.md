@@ -54,7 +54,7 @@ Now, after making any changes to your project on the system, follow these simple
 
 `git commit -m "Commit Message"`
 
-`git pull upstream master` *This command checks for any conflicts with the main repo. Go through the conflicts and make changes, if required.*
+`git pull upstream main` *This command checks for any conflicts with the main repo. Go through the conflicts and make changes, if required.*
 
 `git push`
 
